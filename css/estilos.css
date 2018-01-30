@@ -96,6 +96,12 @@
   border-right: 1px dashed green;
 }
 
+p.services-text:after{
+  content: "En nuestro cine te ofrecemos los siguientes servicios para brindarte la mejor diversión y que disfrutes al máximo:";
+}
+
+
+
 @media (max-width:770px) {
   .right-column{
     display: none;
