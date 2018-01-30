@@ -48,9 +48,8 @@
 
 .img-social{
   width: 40px;
-  height: 40px;  
+  height: 40px;
 }
-
 
 .welcome-title{
   color: white;
@@ -60,6 +59,13 @@
 .titulo-cartelera{
   background-color: hsla(220, 47%, 42%, 0.2);
   min-height: 45px;
+}
+
+.titulo-text{
+  font-size: 18px;
+  font-weight: bolder;
+  color: white;
+  padding: 10px;
 }
 
 .movies-row{
