@@ -89,7 +89,7 @@
   margin-top: 5px;
   background-color: hsla(188, 47%, 57%, 0.1);
   min-height: 330px;
-  border: 1px dashed red;
+
 }
 
 .left-column{
@@ -113,6 +113,15 @@ p.services-text:after{
     min-height: 230px;
   }
   .jumbotron{
-    min-height: 350px;
+    min-height: 400px;
+  }
+  .jumbotron-img{
+    margin-top: 20px;
+  }
+  h2{
+    font-size: 22px;
+  }
+  .titulo-cartelera{
+    font-size: 15px;
   }
 }
